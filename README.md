@@ -11,3 +11,5 @@
    eg: "abccde" --> true, "abcde" --> false
    
 5) Fifth test is about writing a random shuffle method
+
+6) Sixth test is about a sql left join
